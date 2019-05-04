@@ -1,6 +1,6 @@
 {
   "name": "andrewandante-hunspell",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "SilverStripe Ltd",
   "license": "BSD-3-Clause",
   "summary": "Hunspell package focused on New Zealand language sets",
@@ -9,9 +9,9 @@
   "dependencies": [],
   "operatingsystem_support": [
     {
-      "operatingsystem": "Debian",
+      "operatingsystem": "Ubuntu",
       "operatingsystemrelease": [
-        "8"
+        "18.04"
       ]
     }
   ],

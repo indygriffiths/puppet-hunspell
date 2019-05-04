@@ -5,7 +5,7 @@ class hunspell (
 	package {
 		"hunspell":	ensure => installed;
 		"hunspell-en-us":	ensure  => installed;
-		"myspell-en-gb":	ensure  => installed;
+		"hunspell-en-gb":	ensure  => installed;
 	}
 
 	# NZ Dictionaries
